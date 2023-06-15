@@ -1,0 +1,9 @@
+* cl-stomp
+
+Common-Lisp interface to ActiveMQ using the STOMP protocol
+
+|---------+----------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-stomp/cl-stomp.git |
+| commit  | 18c7279793241613bcfd742b22b960199c31141b                 |
+| systems | cl-stomp                                                 |
+|---------+----------------------------------------------------------|
